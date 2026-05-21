@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="it">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Anton Morosi | Certificate Showcase</title>
+  <meta name="description" content="Portfolio statico dei certificati di Anton Morosi: AI, cybersecurity, software, Apple Teacher, lingue e workshop.">
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar" data-topbar>
+    <a class="brand" href="#top" aria-label="Torna all'inizio">
+      <span class="brand-mark">AM</span>
+      <span>Certificate Showcase</span>
+    </a>
+    <nav class="nav" aria-label="Sezioni">
+      <a href="#map">Mappa</a>
+      <a href="#certificates">Certificati</a>
+      <a href="#timeline">Timeline</a>
+      <a href="#story">Story</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero" aria-label="Introduzione portfolio certificati">
+      <div class="hero-wall" aria-hidden="true">
+        <img src="assets/thumbs/mit-data-science-ml-thumb.jpg" alt="" style="--slot:1">
+        <img src="assets/thumbs/greatlearning-ux-portfolio-thumb.jpg" alt="" style="--slot:2">
+        <img src="assets/thumbs/greatlearning-uiux-thumb.jpg" alt="" style="--slot:3">
+        <img src="assets/thumbs/greatlearning-c-thumb.jpg" alt="" style="--slot:4">
+        <img src="assets/thumbs/greatlearning-ethical-hacking-thumb.jpg" alt="" style="--slot:5">
+        <img src="assets/thumbs/greatlearning-prompt-chatgpt-thumb.jpg" alt="" style="--slot:6">
+        <img src="assets/thumbs/greatlearning-info-security-thumb.jpg" alt="" style="--slot:7">
+        <img src="assets/thumbs/apple-teacher-swift-thumb.jpg" alt="" style="--slot:8">
+        <img src="assets/thumbs/apple-teacher-thumb.jpg" alt="" style="--slot:9">
+        <img src="assets/thumbs/coursera-google-connect-protect-thumb.jpg" alt="" style="--slot:10">
+      </div>
+      <div class="hero-copy">
+        <p class="eyebrow">Anton Morosi</p>
+        <h1>Un portfolio certificato su AI, cyber, software e lingue.</h1>
+        <p class="hero-text">Una raccolta curata di attestati, corsi e riconoscimenti, organizzata come una presentazione professionale: pulita, leggibile, pronta per essere pubblicata e vista anche da telefono.</p>
+        <div class="hero-metrics" aria-label="Statistiche portfolio">
+          <span><strong>29</strong> attestati pubblici</span>
+          <span><strong>12</strong> enti/piattaforme</span>
+          <span><strong>2019</strong>-2026</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="map">
+      <div class="section-head">
+        <p class="eyebrow">Mappa competenze</p>
+        <h2>Il valore non è il numero: è la coerenza del percorso.</h2>
+      </div>
+      <div class="domain-grid" data-domain-grid></div>
+    </section>
+
+    <section class="section tight" id="certificates">
+      <div class="section-head with-tools">
+        <div>
+          <p class="eyebrow">Galleria</p>
+          <h2>Tutti i certificati, filtrabili e leggibili.</h2>
+        </div>
+        <div class="tools">
+          <label class="search">
+            <span>Cerca</span>
+            <input type="search" data-search placeholder="titolo, ente, skill">
+          </label>
+          <div class="segments" data-filters aria-label="Filtri categoria"></div>
+        </div>
+      </div>
+      <div class="certificate-grid" data-grid></div>
+    </section>
+
+    <section class="section band" id="timeline">
+      <div class="section-head">
+        <p class="eyebrow">Timeline</p>
+        <h2>Dalle lingue alla specializzazione AI: una progressione visibile.</h2>
+      </div>
+      <div class="timeline" data-timeline></div>
+    </section>
+
+    <section class="section" id="story">
+      <div class="story-layout">
+        <div>
+          <p class="eyebrow">Storyline</p>
+          <h2>Tre messaggi che il portfolio deve far passare subito.</h2>
+        </div>
+        <div class="story-list">
+          <article>
+            <span>01</span>
+            <h3>Base tecnica ampia</h3>
+            <p>Software, C, UI/UX, dati e sicurezza non sono presentati come blocchi separati, ma come competenze che si rinforzano tra loro.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>AI con direzione</h3>
+            <p>Il blocco Vanderbilt rende chiaro il salto da uso generico dell'AI a prompt, deep research, agenti e strategia.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>Profilo internazionale</h3>
+            <p>Cambridge, EF Dublin, EF New York ed EFSET C2 danno credibilità linguistica e mostrano adattabilità.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <dialog class="detail" data-dialog>
+    <button class="dialog-close" data-close aria-label="Chiudi">×</button>
+    <div class="detail-body" data-detail></div>
+  </dialog>
+
+  <footer class="footer">
+    <p>Portfolio statico pronto per hosting. I moduli con dati personali non sono inclusi nella galleria pubblica.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
