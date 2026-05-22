@@ -212,13 +212,13 @@ const certificates = [
     "year": "2026",
     "category": "Cybersecurity",
     "accent": "#ff3b30",
-    "image": "assets/certificates/coursera-google-foundations.jpg",
-    "thumb": "assets/thumbs/coursera-google-foundations-thumb.jpg",
+    "image": "assets/certificates/coursera-google-tools-linux-sql.svg",
+    "thumb": "assets/thumbs/coursera-google-tools-linux-sql-thumb.svg",
     "summary": "Corso Google su Linux, SQL, shell, sistemi operativi e strumenti tecnici per analyst cybersecurity.",
     "details": ["Tools of the Trade: Linux and SQL porta il percorso cyber dalle definizioni agli strumenti pratici: sistemi operativi, shell Linux, comandi, database e query SQL.", "Nel portfolio questo certificato è molto spendibile perché collega studio, laboratorio Linux/network security e competenze operative richieste a un profilo cybersecurity junior."],
     "skills": ["Linux", "SQL", "Command line", "Cybersecurity tools"],
     "verify": "https://coursera.org/verify/JHF81RZ05NGS",
-    "publicNote": "Immagine pubblica temporanea: usare il PDF originale nella repository privata per la versione finale."
+    "publicNote": "Immagine pubblica generata dal certificato originale; PDF completo conservato nella repository privata certificate."
   },
   {
     "id": "coursera-google-job-search-ai",
@@ -229,13 +229,13 @@ const certificates = [
     "year": "2026",
     "category": "AI & Data",
     "accent": "#4285f4",
-    "image": "assets/certificates/coursera-google-foundations.jpg",
-    "thumb": "assets/thumbs/coursera-google-foundations-thumb.jpg",
+    "image": "assets/certificates/coursera-google-job-search-ai.svg",
+    "thumb": "assets/thumbs/coursera-google-job-search-ai-thumb.svg",
     "summary": "Corso Google sull'uso dell'AI per ricerca lavoro, CV, candidatura e preparazione professionale.",
     "details": ["Accelerate Your Job Search with AI è utile come certificato di supporto: mostra uso pratico dell'AI per organizzare candidature, materiali professionali e comunicazione del profilo.", "Si collega direttamente alla fase di presentazione professionale: CV mirati, GitHub, siti pubblici e documentazione."],
     "skills": ["AI for career", "Job search", "Portfolio communication"],
     "verify": "https://coursera.org/verify/Y9XOV86XPJG9",
-    "publicNote": "Immagine pubblica temporanea: usare il PDF originale nella repository privata per la versione finale."
+    "publicNote": "Immagine pubblica generata dal certificato originale; PDF completo conservato nella repository privata certificate."
   },
   {
     "id": "coursera-microsoft-intro-computers",
@@ -263,13 +263,13 @@ const certificates = [
     "year": "2026",
     "category": "Software & UX",
     "accent": "#0078d4",
-    "image": "assets/certificates/coursera-microsoft-intro-computers.jpg",
-    "thumb": "assets/thumbs/coursera-microsoft-intro-computers-thumb.jpg",
+    "image": "assets/certificates/coursera-microsoft-it-support-specialist.svg",
+    "thumb": "assets/thumbs/coursera-microsoft-it-support-specialist-thumb.svg",
     "summary": "Certificato professionale Microsoft su supporto IT, ecosistema Microsoft 365, diagnostica tecnica, backup, privacy e sicurezza.",
     "details": ["Questo certificato raccoglie più corsi Microsoft in un percorso professionalizzante sul supporto IT: sistemi, troubleshooting, software, hardware, dati, privacy, cybersecurity e Microsoft 365.", "Nel portfolio è utile perché collega le basi sistemistiche al lavoro tecnico reale: diagnosticare problemi, comprendere ambienti Microsoft e costruire una preparazione spendibile per ruoli IT junior."],
     "skills": ["IT support", "Microsoft 365", "Troubleshooting", "Cybersecurity basics"],
     "verify": "https://coursera.org/verify/professional-cert/4MOO6T3FWKRZ",
-    "publicNote": "Immagine pubblica temporanea: usare il PDF originale nella repository privata per la versione finale."
+    "publicNote": "Immagine pubblica generata dal certificato originale; PDF completo conservato nella repository privata certificate."
   },
   {
     "id": "coursera-microsoft-365-ecosystem",
@@ -280,13 +280,13 @@ const certificates = [
     "year": "2026",
     "category": "Software & UX",
     "accent": "#0078d4",
-    "image": "assets/certificates/coursera-microsoft-intro-computers.jpg",
-    "thumb": "assets/thumbs/coursera-microsoft-intro-computers-thumb.jpg",
+    "image": "assets/certificates/coursera-microsoft-365-ecosystem.svg",
+    "thumb": "assets/thumbs/coursera-microsoft-365-ecosystem-thumb.svg",
     "summary": "Corso Microsoft sull'ecosistema Microsoft 365 e sul rapporto tra strumenti, servizi e produttività digitale.",
     "details": ["The Microsoft 365 Ecosystem rafforza la comprensione degli ambienti professionali Microsoft, utili in contesti aziendali, supporto IT e collaborazione digitale.", "Nel portfolio è un certificato di supporto: rende più credibile la capacità di lavorare dentro strumenti enterprise reali."],
     "skills": ["Microsoft 365", "Productivity ecosystem", "Enterprise tools"],
     "verify": "https://coursera.org/verify/NNWIPEDIA0B9",
-    "publicNote": "Immagine pubblica temporanea: usare il PDF originale nella repository privata per la versione finale."
+    "publicNote": "Immagine pubblica generata dal certificato originale; PDF completo conservato nella repository privata certificate."
   },
   {
     "id": "coursera-microsoft-technical-diagnostics",
@@ -297,13 +297,13 @@ const certificates = [
     "year": "2026",
     "category": "Software & UX",
     "accent": "#0078d4",
-    "image": "assets/certificates/coursera-microsoft-intro-computers.jpg",
-    "thumb": "assets/thumbs/coursera-microsoft-intro-computers-thumb.jpg",
+    "image": "assets/certificates/coursera-microsoft-technical-diagnostics.svg",
+    "thumb": "assets/thumbs/coursera-microsoft-technical-diagnostics-thumb.svg",
     "summary": "Corso Microsoft sulle tecniche di diagnostica e troubleshooting tecnico.",
     "details": ["Questo certificato è rilevante per un profilo tecnico junior perché riguarda il metodo: osservare un problema, isolare le cause, verificare ipotesi e documentare la soluzione.", "Nel portfolio si collega bene a cybersecurity, Linux/network lab e MicroBot: ogni progetto serio richiede diagnosi, log, test e correzione progressiva."],
     "skills": ["Troubleshooting", "Technical diagnostics", "Problem solving"],
     "verify": "https://coursera.org/verify/AX12ZT02FO3P",
-    "publicNote": "Immagine pubblica temporanea: usare il PDF originale nella repository privata per la versione finale."
+    "publicNote": "Immagine pubblica generata dal certificato originale; PDF completo conservato nella repository privata certificate."
   },
   {
     "id": "coursera-microsoft-software-hardware-backup",
@@ -314,13 +314,13 @@ const certificates = [
     "year": "2026",
     "category": "Software & UX",
     "accent": "#0078d4",
-    "image": "assets/certificates/coursera-microsoft-intro-computers.jpg",
-    "thumb": "assets/thumbs/coursera-microsoft-intro-computers-thumb.jpg",
+    "image": "assets/certificates/coursera-microsoft-software-hardware-backup.svg",
+    "thumb": "assets/thumbs/coursera-microsoft-software-hardware-backup-thumb.svg",
     "summary": "Corso Microsoft su software, hardware e principi essenziali di backup dei dati.",
     "details": ["Questo certificato aggiunge disciplina operativa al profilo: comprendere software, hardware e backup è una base pratica per lavorare su sistemi, sicurezza e affidabilità.", "Nel portfolio è utile perché rinforza il tema della protezione dei dati e della gestione corretta degli ambienti digitali."],
     "skills": ["Hardware basics", "Software basics", "Data backup"],
     "verify": "https://coursera.org/verify/SZ73TF7X0B4X",
-    "publicNote": "Immagine pubblica temporanea: usare il PDF originale nella repository privata per la versione finale."
+    "publicNote": "Immagine pubblica generata dal certificato originale; PDF completo conservato nella repository privata certificate."
   },
   {
     "id": "coursera-microsoft-cybersecurity-privacy",
@@ -331,13 +331,13 @@ const certificates = [
     "year": "2026",
     "category": "Cybersecurity",
     "accent": "#0078d4",
-    "image": "assets/certificates/coursera-microsoft-intro-computers.jpg",
-    "thumb": "assets/thumbs/coursera-microsoft-intro-computers-thumb.jpg",
+    "image": "assets/certificates/coursera-microsoft-cybersecurity-privacy.svg",
+    "thumb": "assets/thumbs/coursera-microsoft-cybersecurity-privacy-thumb.svg",
     "summary": "Corso Microsoft su cybersecurity, privacy e principi di protezione delle informazioni.",
     "details": ["Cybersecurity and Privacy rafforza il blocco difensivo del portfolio: sicurezza non significa solo strumenti, ma anche protezione dei dati, responsabilità e consapevolezza dei rischi.", "Nel percorso di Anton si collega ai corsi Google, a Introduction to Secure Networking e ai laboratori Linux/network security."],
     "skills": ["Cybersecurity", "Privacy", "Information protection"],
     "verify": "https://coursera.org/verify/CAQ19MZ5FIF9",
-    "publicNote": "Immagine pubblica temporanea: usare il PDF originale nella repository privata per la versione finale."
+    "publicNote": "Immagine pubblica generata dal certificato originale; PDF completo conservato nella repository privata certificate."
   },
   {
     "id": "coursera-microsoft-secure-networking",
